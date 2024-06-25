@@ -34,3 +34,9 @@ This challenge is also an opportunity to get a sneak peek at some of the new cut
 - [Lab 3](./content/lab_3/)
 - [Lab 4](./content/lab_4/)
 - [Lab bonus](./content/lab_bonus/)
+
+## Achievement
+
+<a href="https://www.credly.com/badges/0daa2e2a-71ae-4be8-a535-f8314e7f3192/public_url">
+    <img src="https://github.com/Yara-R/IBM-Quantum-Challenge-2024/blob/main/IBM%20Quantum%20Challenge%202024%20Achievement.png">
+</a>
